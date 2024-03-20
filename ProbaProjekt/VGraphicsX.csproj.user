@@ -4,7 +4,7 @@
     <Compile Update="CanvasPanel.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Update="Form1.cs">
+    <Compile Update="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

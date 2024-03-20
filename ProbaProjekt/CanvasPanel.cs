@@ -70,9 +70,8 @@ namespace VGraphicsX
             };
         */
 
-        private float getDistance(Vector2 ponint1, Vector2 point2) 
+        private float getDistance(Vector2 ponint1, Vector2 point2)
         {
-
             return 0f;
         }
 
@@ -147,7 +146,7 @@ namespace VGraphicsX
 
         private void RenderObjects()
         {
-            g = GraphicsSeged.AA_Graphics_From_Panel(this);
+            g = GraphicsSeged.AA_CreateGraphics_From_Panel(this);
             Paint += (object sender, PaintEventArgs e) =>
             {
                 g.Clear(BLACK_COLOR); //frissites

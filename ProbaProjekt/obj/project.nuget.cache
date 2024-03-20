@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UTbqKNoojDVz60UXmKPNDKIib7/9yuU/DtgmPyMIsfSCaUsxMZCeO0KSDVq+2Bn3NMvedwb/WO+K9xr+q+LuZg==",
+  "dgSpecHash": "drmQrYdw8O1rpfj33tOZueZJGywKpOmkkDpKu/KU/4PELuFEAXObowj3gvnklZ4F8fBNg7N0WporXP6fm6E5Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\VGraphicsX.csproj",
+  "projectFilePath": "Z:\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devpc\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.29\\microsoft.windows.sdk.net.ref.10.0.17763.29.nupkg.sha512"
   ],
