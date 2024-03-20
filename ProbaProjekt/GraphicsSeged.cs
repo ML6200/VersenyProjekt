@@ -11,6 +11,7 @@ namespace VGraphicsX
             Graphics g = panel.CreateGraphics();
             g.SmoothingMode = SmoothingMode.AntiAlias;
 
+
             return g;
         }
     }

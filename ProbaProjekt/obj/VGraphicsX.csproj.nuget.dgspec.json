@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\omvsrv01.local\\share\\Fejlesztes\\Info Orai\\prog\\visualstudio\\dolgozat2024\\VGraphicsX\\VGraphicsX.csproj": {}
+    "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\VGraphicsX.csproj": {}
   },
   "projects": {
-    "\\\\omvsrv01.local\\share\\Fejlesztes\\Info Orai\\prog\\visualstudio\\dolgozat2024\\VGraphicsX\\VGraphicsX.csproj": {
+    "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\VGraphicsX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\omvsrv01.local\\share\\Fejlesztes\\Info Orai\\prog\\visualstudio\\dolgozat2024\\VGraphicsX\\VGraphicsX.csproj",
+        "projectUniqueName": "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\VGraphicsX.csproj",
         "projectName": "VGraphicsX",
-        "projectPath": "\\\\omvsrv01.local\\share\\Fejlesztes\\Info Orai\\prog\\visualstudio\\dolgozat2024\\VGraphicsX\\VGraphicsX.csproj",
+        "projectPath": "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\VGraphicsX.csproj",
         "packagesPath": "C:\\Users\\devpc\\.nuget\\packages\\",
-        "outputPath": "\\\\omvsrv01.local\\share\\Fejlesztes\\Info Orai\\prog\\visualstudio\\dolgozat2024\\VGraphicsX\\obj\\",
+        "outputPath": "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devpc\\AppData\\Roaming\\NuGet\\NuGet.Config",

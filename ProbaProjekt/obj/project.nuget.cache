@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "np3jbjngS5RkEQbMUI7E2vEy2dnugCFoLxZKjp6liAGi8KDs95xxd6+GUr6R9RA9CRrANWQO8W1r+20IOsTkSw==",
+  "dgSpecHash": "UTbqKNoojDVz60UXmKPNDKIib7/9yuU/DtgmPyMIsfSCaUsxMZCeO0KSDVq+2Bn3NMvedwb/WO+K9xr+q+LuZg==",
   "success": true,
-  "projectFilePath": "\\\\omvsrv01.local\\share\\Fejlesztes\\Info Orai\\prog\\visualstudio\\dolgozat2024\\VGraphicsX\\VGraphicsX.csproj",
+  "projectFilePath": "C:\\Users\\devpc\\Source\\Repos\\VersenyProjekt\\ProbaProjekt\\VGraphicsX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devpc\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.29\\microsoft.windows.sdk.net.ref.10.0.17763.29.nupkg.sha512"
   ],
