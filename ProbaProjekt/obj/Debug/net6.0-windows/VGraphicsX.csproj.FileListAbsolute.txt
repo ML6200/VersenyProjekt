@@ -1,0 +1,16 @@
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\bin\Debug\net6.0-windows\VGraphicsX.exe
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\bin\Debug\net6.0-windows\VGraphicsX.deps.json
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\bin\Debug\net6.0-windows\VGraphicsX.runtimeconfig.json
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\bin\Debug\net6.0-windows\VGraphicsX.dll
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\bin\Debug\net6.0-windows\VGraphicsX.pdb
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.Form1.resources
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.csproj.GenerateResource.cache
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.GeneratedMSBuildEditorConfig.editorconfig
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.AssemblyInfoInputs.cache
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.AssemblyInfo.cs
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.csproj.CoreCompileInputs.cache
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.dll
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\refint\VGraphicsX.dll
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.pdb
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\VGraphicsX.genruntimeconfig.cache
+\\omvsrv01.local\share\Fejlesztes\Info Orai\prog\visualstudio\dolgozat2024\VGraphicsX\obj\Debug\net6.0-windows\ref\VGraphicsX.dll
