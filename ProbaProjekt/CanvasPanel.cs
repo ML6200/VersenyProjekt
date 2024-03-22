@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Numerics;
+using System.Security.Cryptography.Xml;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Media.Media3D;
 
 /*
  * Valtoztatasok szuksegesek:
@@ -38,7 +40,7 @@ using System.Threading.Tasks;
  */
 namespace VGraphicsX
 {
-    struct CanvasObject 
+    public class CanvasObject
     {
         public int x; //x position
         public int y; //y position
@@ -48,7 +50,21 @@ namespace VGraphicsX
         public int objectID;
     }
 
-    internal class CanvasPanel : Panel
+    public class CanvasObject3D
+    {
+        public int x;
+        public int y; 
+        public int z;
+
+        public int width; 
+        public int height; 
+        public int depth; 
+
+        public Color color;
+        public int objectID;
+    }
+
+    public class CanvasPanel : Panel
     {
         private Graphics g;
 
@@ -62,6 +78,7 @@ namespace VGraphicsX
         }
 
         /*
+         * egermozgas lekovetese:
          MouseMove += (o, e) => 
             {
                 int mPosX = Control.MousePosition.X - this.Location.X;
@@ -70,7 +87,7 @@ namespace VGraphicsX
             };
         */
 
-        private float getDistance(Vector2 ponint1, Vector2 point2)
+        private float calcDistance(Vector2 ponint1, Vector2 point2)
         {
             return 0f;
         }
@@ -117,13 +134,10 @@ namespace VGraphicsX
 
         public void RemoveObject(int x, int y, int width, int height, int objectID) 
         {
-            CanvasObject canvasObject = new CanvasObject();
-
-            canvasObject.x = x;
-            canvasObject.y = y;
-            canvasObject.width = width;
-            canvasObject.height = height;
-            canvasObject.objectID = objectID;
+            CanvasObject canvasObject = new CanvasObject() 
+            {
+                x=x, y=y, width=width, height=height, objectID=objectID
+            };
 
             objects.Remove(canvasObject);
             RenderObjects();

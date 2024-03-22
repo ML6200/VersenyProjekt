@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace VGraphicsX
 {
-    public class FajlSeged
+    internal class Render
     {
-        public static void ReadTxtToList(string filePath)
-        {
-        }
     }
 }

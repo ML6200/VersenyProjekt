@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj": {}
+    "\\\\omvsrv01.local\\share\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj": {}
   },
   "projects": {
-    "Z:\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj": {
+    "\\\\omvsrv01.local\\share\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj",
+        "projectUniqueName": "\\\\omvsrv01.local\\share\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj",
         "projectName": "VGraphicsX",
-        "projectPath": "Z:\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj",
+        "projectPath": "\\\\omvsrv01.local\\share\\Github\\VisualStudioRepo\\ProbaProjekt\\VGraphicsX.csproj",
         "packagesPath": "C:\\Users\\devpc\\.nuget\\packages\\",
-        "outputPath": "Z:\\Github\\VisualStudioRepo\\ProbaProjekt\\obj\\",
+        "outputPath": "\\\\omvsrv01.local\\share\\Github\\VisualStudioRepo\\ProbaProjekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devpc\\AppData\\Roaming\\NuGet\\NuGet.Config",
