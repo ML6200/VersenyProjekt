@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace VGraphicsX
 {
-    internal class Render
+    public class Render
     {
+        static class Render3D 
+        {
+        }
+
+        static class Render2D 
+        {
+        }
     }
 }

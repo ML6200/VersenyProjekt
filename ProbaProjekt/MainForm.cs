@@ -8,8 +8,10 @@ namespace VGraphicsX
 
             CanvasPanel canvasPanel = new CanvasPanel();
             canvasPanel.AutoSize = true;
-            canvasPanel.Width = 1000;
-            canvasPanel.Height = 1000;
+            
+            canvasPanel.Width = this.Width;
+            canvasPanel.Height = this.Height;
+
             canvasPanel.RajzolKor(10, 10, 10);
             canvasPanel.RajzolKor(40, 20, 10);
             canvasPanel.RajzolKor(60, 30, 20);

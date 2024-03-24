@@ -1,43 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing.Drawing2D;
-using System.Linq;
-using System.Numerics;
-using System.Security.Cryptography.Xml;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Media.Media3D;
+﻿using System.Numerics;
 
-/*
- * Valtoztatasok szuksegesek:
- * 
- * Nem minden alkalommal peldanyozni a rajzolasnal
- * -> az regisztralni az objekumot a listaban es meghivni a rendert
- * 
- * 
- * 2 kor Tavolsag kiszamitasa->
- * Kor kezdovektorbol kivonni a radiust
- * > az igy kapott ponttol szamitva 
- * 
- * => Xkozp1 = Xkezdp1 + radius1 ]
- *                               ]+---- 1.kor
- *    Ykozp1 = Ykezdp1 + radius1 ]
- * 
- * 
- *    Xkozp2 = Xkezdp2 + radius2 ]
- *                               ]+---- 2.kor
- *    Ykozp2 = Xkezdp2 + radius2 ]
- * 
- * 
- *    
- *    ha az elso kozelebb van origohoz(koordinatai kisebbek a masik koordinatainal)
- *    akkor=>
- *    
- *    ngyok( (Xkozp2 - radius2 - Xkozp1)^2  + (Ykozp2 - radius2 - Ykozp1)^2 )
- *    
- *    
- *    ezeket a tavolsagokat rekurzivan megvizsgaljuk
- */
 namespace VGraphicsX
 {
     public class CanvasObject
@@ -86,11 +48,6 @@ namespace VGraphicsX
                   
             };
         */
-
-        private float calcDistance(Vector2 ponint1, Vector2 point2)
-        {
-            return 0f;
-        }
 
         private void MoveObject(int objectID, int newX, int newY, int newWidth, int newHeight)
         {
