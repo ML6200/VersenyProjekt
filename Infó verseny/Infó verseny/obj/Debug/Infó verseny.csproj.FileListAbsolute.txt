@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Infó verseny\Infó verseny\obj\Debug\Infó verseny.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Infó verseny\Infó verseny\obj\Debug\Infó verseny.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Infó verseny\Infó verseny\bin\Debug\Infó verseny.exe.config
+C:\Users\user\source\repos\Infó verseny\Infó verseny\bin\Debug\Infó verseny.exe
+C:\Users\user\source\repos\Infó verseny\Infó verseny\bin\Debug\Infó verseny.pdb
+C:\Users\user\source\repos\Infó verseny\Infó verseny\obj\Debug\Infó verseny.exe
+C:\Users\user\source\repos\Infó verseny\Infó verseny\obj\Debug\Infó verseny.pdb
