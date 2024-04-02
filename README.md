@@ -1,1 +1,3 @@
 # VersenyProjekt
+INSTALL
+#Telepitési utmutato
